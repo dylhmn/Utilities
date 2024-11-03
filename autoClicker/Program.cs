@@ -12,7 +12,7 @@ const uint LEFTDOWN = 0x02; // LEFTDOWN = Left click
 const uint LEFTUP = 0x04; // LEFTUP = Releasing left click
 // The value is representing the virtual button press (from microsoft documents)
 
-const int HOTKEY = 0x26; // Up arrow key
+const int HOTKEY = 0x60;
 
 bool enableClicker = false; // ON/OFF for hotkey
 int clickInterval = 3; // Miliseconds between clicks
