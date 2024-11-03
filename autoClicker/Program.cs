@@ -15,7 +15,7 @@ const uint LEFTUP = 0x04; // LEFTUP = Releasing left click
 const int HOTKEY = 0x26; // Up arrow key
 
 bool enableClicker = false; // ON/OFF for hotkey
-int clickInterval = 5; // Miliseconds between clicks
+int clickInterval = 3; // Miliseconds between clicks
 
 
 // AUTOCLICKER LOOP
