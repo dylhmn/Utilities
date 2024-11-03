@@ -1,1 +1,1 @@
-# HOTKEY = UP ARROW, OPEN PROGRAM.cs
+# HOTKEY = UP ARROW | Open Program.cs
