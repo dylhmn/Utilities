@@ -1,5 +1,5 @@
-
 > # Useful, commented projects
-> Currently
+> # Currently:
+> 
 > 1. Auto Clicker (Command Line)
 > 2. 
