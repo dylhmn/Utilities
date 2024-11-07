@@ -1,6 +1,6 @@
-..* Countdown (C# winforms) + Real date and time
-..* Note taker
-..* To-Do list
+..*Countdown (C# winforms) + Real date and time
+..*Note taker
+..*To-Do list
 
 ..* Simple Chat Application (client server model)
 ..* Telephone diary
