@@ -4,6 +4,6 @@ To change the hotkey, visit: https://learn.microsoft.com/en-us/windows/win32/inp
 
 #### Change "const int HOTKEY = [VALUE]" To your appropriate value
 
-#### Change "int clickInterval = [VALUE]" To your appropriate value (in miliseconds)
+#### Change "int clickInterval = [VALUE]" To your appropriate value (milisecond delays)
 
 Visual Studio 2022 is recommended for making adjustments
