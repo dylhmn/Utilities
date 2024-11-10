@@ -1,4 +1,4 @@
-> #### Useful, commented projects
+> #### Package of useful, commented projects
 >
 > Currently:
 > 
