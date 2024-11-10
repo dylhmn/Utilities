@@ -2,5 +2,5 @@
 
 Currently:
  
-* Auto Clicker (Command Line)
-* 
+* Auto Clicker
+* Stopwatch
