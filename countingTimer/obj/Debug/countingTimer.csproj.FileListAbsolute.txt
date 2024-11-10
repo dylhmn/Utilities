@@ -1,0 +1,10 @@
+C:\Users\44750\source\repos\countingTimer\bin\Debug\countingTimer.exe.config
+C:\Users\44750\source\repos\countingTimer\bin\Debug\countingTimer.exe
+C:\Users\44750\source\repos\countingTimer\bin\Debug\countingTimer.pdb
+C:\Users\44750\source\repos\countingTimer\obj\Debug\countingTimer.csproj.AssemblyReference.cache
+C:\Users\44750\source\repos\countingTimer\obj\Debug\countingTimer.countdownTimer.resources
+C:\Users\44750\source\repos\countingTimer\obj\Debug\countingTimer.Properties.Resources.resources
+C:\Users\44750\source\repos\countingTimer\obj\Debug\countingTimer.csproj.GenerateResource.cache
+C:\Users\44750\source\repos\countingTimer\obj\Debug\countingTimer.csproj.CoreCompileInputs.cache
+C:\Users\44750\source\repos\countingTimer\obj\Debug\countingTimer.exe
+C:\Users\44750\source\repos\countingTimer\obj\Debug\countingTimer.pdb
