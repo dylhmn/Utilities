@@ -2,5 +2,5 @@
 
 Currently:
  
-* Auto Clicker
-* Stopwatch
+* Auto Clicker | "autoClicker"
+* Stopwatch | "countingTimer"
