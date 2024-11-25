@@ -1,15 +1,14 @@
-1. Countdown (C# winforms) + Real date and time
 
-2. Note taker
+Note taker
 
-3. To-Do list
+To-Do list
 
-4. Simple Chat Application (client server model)
+Simple Chat Application (client server model)
 
-5. Telephone diary
+Telephone diary
 
-6. Paint (Winforms)
+Paint (Winforms)
 
-7. Music Player
+Music Player
 
-8. YouTube to MP3
+YouTube to MP3
